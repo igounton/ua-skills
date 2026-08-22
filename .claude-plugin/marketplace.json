@@ -1,0 +1,46 @@
+{
+  "name": "ua-skills",
+  "owner": {
+    "name": "Appeeky",
+    "url": "https://appeeky.com"
+  },
+  "metadata": {
+    "description": "Mobile app user acquisition skills for Claude Code — TikTok ads, Meta ads, Apple Search Ads, creatives, and ROAS",
+    "version": "1.0.0",
+    "repository": "https://github.com/appeeky/ua-skills"
+  },
+  "plugins": [
+    {
+      "name": "ua-skills",
+      "description": "24 UA skills for indie developers and growth teams. Covers TikTok, Meta, Apple Search Ads, ad creatives, MMP setup, ROAS, and cross-channel budget — powered by Appeeky.",
+      "source": "./",
+      "strict": false,
+      "skills": [
+        "./skills/ads-router",
+        "./skills/app-ads-context",
+        "./skills/mmp-setup",
+        "./skills/meta-ad-creative",
+        "./skills/ad-creative-variants",
+        "./skills/ad-creative-edit",
+        "./skills/ad-creative-to-meta",
+        "./skills/competitor-ad-teardown",
+        "./skills/tiktok-campaign-setup",
+        "./skills/tiktok-creative-strategy",
+        "./skills/tiktok-spark-ads",
+        "./skills/tiktok-campaign-audit",
+        "./skills/meta-campaign-setup",
+        "./skills/meta-campaign-audit",
+        "./skills/meta-budget-optimizer",
+        "./skills/asa-roas-analysis",
+        "./skills/asa-weekly-optimization",
+        "./skills/asa-negative-keywords",
+        "./skills/asa-admaxxing",
+        "./skills/subscription-snapshot",
+        "./skills/campaign-profitability",
+        "./skills/cross-channel-performance",
+        "./skills/cross-channel-budget",
+        "./skills/google-uac-campaign"
+      ]
+    }
+  ]
+}
