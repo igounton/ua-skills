@@ -21,6 +21,14 @@ Powered by live campaign data via the [Appeeky API](https://docs.appeeky.com) �
 
 For organic ASO and App Store listing optimization, see [aso-skills](https://github.com/eronred/aso-skills).
 
+## For people who want App Growth locally
+
+A native macOS app — a local-first for app growth. App Store Connect, Google Play, Apple Search Ads, Meta/TikTok ads, and RevenueCat sync into a cache on your Mac: full history, no CSV exports, credentials in the Keychain. Reviews, ads intelligence, and keyword data stay fast (and work offline). A built-in terminal pairs with MCP, so the same agents that use these skills can talk to your local data. Download from [Appeeky](https://appeeky.com/desktop).
+
+ <a href="https://www.appeeky.com/desktop">
+<img width="3072" height="2040" alt="image" src="https://github.com/user-attachments/assets/2c04ba9d-eb91-4543-8d38-21fa48cd476f" />
+</a>
+
 ## Why This Exists
 
 Generic LLMs default to Traffic campaigns, $10/day, and install-optimize. That burns the first budget. These skills force App Promotion, $30–50/day tests, Purchase/Subscribe optimization, PAUSED drafts until you approve, and a 48h kill window.
